@@ -6,5 +6,5 @@ target 'DemoGit' do
   use_frameworks!
 
   # Pods for DemoGit
-
+  pod 'Alamofire'
 end
